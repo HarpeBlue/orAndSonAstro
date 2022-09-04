@@ -1,29 +1,29 @@
 export const footerSocials = [
   {
     name: 'Twitter',
-    url: 'https://twitter.com/littlesticksdev',
+    url: 'https://twitter.com/',
     icon: "mdi:twitter",
   },
   {
-    name: 'Youtube',
-    url: 'https://youtube.com/c/LittleSticks',
-    icon: "mdi:youtube",
+    name: 'Instagram',
+    url: 'https://instagram.com/',
+    icon: "mdi:instagram",
   },
-  {
-    name: 'Github',
-    url: 'https://github.com/littlesticks',
-    icon: "mdi:github",
-  },
-  {
-    name: 'Discord',
-    url: 'https://littlesticks.dev/discord',
-    icon: "ic:baseline-discord",
-  },
+//   {
+//     name: 'Github',
+//     url: 'https://github.com/littlesticks',
+//     icon: "mdi:github",
+//   },
+//   {
+//     name: 'Discord',
+//     url: 'https://littlesticks.dev/discord',
+//     icon: "ic:baseline-discord",
+//   },
 ]
 
 export const footerLists = [
 	{
-		title: 'Landing Pages',
+		title: 'Projects',
 		items: [
 			{
 				title: 'Landing Page 1',
